@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\Pipe2_2.dll</Assembly>
+		<AddInId>D762FACB-56DC-448C-8444-6BBA5317A179</AddInId>
+		<FullClassName>Pipe2_2.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Количество труб на текущем виде</Text>
+	</AddIn>
+</RevitAddIns>
